@@ -1,0 +1,47 @@
+body {
+    font-weight: bold;
+}
+
+body{
+    font-size: 18px;
+}
+
+h1, h2, footer{
+    background-color: red;
+}
+
+.site-title{
+    color: blue;
+}
+
+ul{
+    list-style-type: square;
+}
+
+aside li:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+a{
+    text-decoration: none;
+}
+
+a{
+    background-color: pink;
+}
+
+a{
+    border-style: double;
+}
+
+a:hover{
+   background-color: blue;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#my-image{
+    box-shadow: 0px 0px 2px 1px black
+}
