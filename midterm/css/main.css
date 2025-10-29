@@ -1,0 +1,91 @@
+body{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    background-color: coral;
+    width: 600px;
+    height: 1550px;
+    margin: auto;
+}
+
+nav ul{
+    text-align: center;
+    margin-top: 510px;   
+}
+
+nav li{
+    display: inline-block;
+    padding: 10px 60px;
+    border-right: 1px solid black
+}
+
+nav li:last-child{
+    border-right: none;
+}
+
+.wrapper{
+    background-image: url(https://www.dailyfaceoff.com/_next/image?url=https%3A%2F%2Fpublish.dailyfaceoff.com%2Fwp-content%2Fuploads%2F2022%2F04%2FUSATSI_18095876-scaled.jpg&w=1920&q=75);
+    background-size: 600px 600px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px
+}
+
+.container{
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p{
+    margin-top: 30px;
+}
+
+h3{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+h4{
+    margin-left: 10px;
+}
+
+section{
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    width: 570px;
+}
+
+input{
+    display: block;
+    margin-top: 5px;
+    width: 550px;
+}
+
+footer{
+    margin-left: 500px;
+    margin-top: 20px;
+}
